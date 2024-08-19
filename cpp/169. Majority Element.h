@@ -1,0 +1,8 @@
+//
+// Created by zzx on 2024/7/7.
+//
+
+#ifndef CPP_169_MAJORITY_ELEMENT_H
+#define CPP_169_MAJORITY_ELEMENT_H
+
+#endif //CPP_169_MAJORITY_ELEMENT_H
