@@ -7,11 +7,11 @@
 // @lc code=start
 package main
 
-type Node struct {
-	Val byte
-	Word bool
-	Next [26]*Node
-}
+// type Node struct {
+// 	Val byte
+// 	Word bool
+// 	Next [26]*Node
+// }
 
 type Trie struct {
     HeadNode Node
